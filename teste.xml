@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd">
+	<property name="now" value="now()" dbms="mysql"/>
+	<changeSet author="pacto" id="0000">
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd">
+	<property name="now" value="now()" dbms="mysql"/>
+	<changeSet author="pacto" id="0000">
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>
+			<column name="funcionalidade_id" value="244"/>
+			<column name="pacto.funcionalidade_url" value="POST"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd">
+	<property name="now" value="now()" dbms="mysql"/>
+	<changeSet author="pacto" id="0000">
+		<insert tableName="funcionalidade_url">
+			<column name="id" value="GET"/>
+			<column name="metodo" value="/pacto/api/auth/token/confirmar"/>
+			<column name="url" value="9"/>

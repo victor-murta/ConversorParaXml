@@ -1,8 +1,0 @@
-INSERT INTO pacto.banco(id, nome, codigo, ativo, usuario_cadastro, data_cadastro, usuario_ultima_alteracao, data_ultima_alteracao, prioridade)
-VALUES(1, '001 - BANCO DO BRASIL S/A', '001', 'S', '00000000000', '2021-04-26 16:00:27', '00000000000', '2021-05-18 16:29:17', '1');
-INSERT INTO pacto.banco
-(id, nome, codigo, ativo, usuario_cadastro, data_cadastro, usuario_ultima_alteracao, data_ultima_alteracao, prioridade)
-VALUES(2, '002 - BANCO CENTRAL DO BRASIL', '002', 'N', '00000000000', '2021-04-26 16:00:27', NULL, NULL, '0');
-INSERT INTO pacto.banco
-(id, nome, codigo, ativo, usuario_cadastro, data_cadastro, usuario_ultima_alteracao, data_ultima_alteracao, prioridade)
-VALUES(3, '003 - BANCO DA AMAZONIA S.A', '003', 'S', '00000000000', '2021-04-26 16:00:27', NULL, NULL, '0');
